@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1389416566 source:d:\codeblocks\blocks\codeblocks\projects\四阶一字棋\main.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<gdk/gdkkeysyms.h>
+	"adapt_BP_net_weight.cpp"
+
+1389343052 d:\codeblocks\blocks\codeblocks\projects\四阶一字棋\macro.h
+
+1389283500 d:\codeblocks\blocks\codeblocks\projects\四阶一字棋\adapt_bp_net_weight.h
+	<math.h>
+	"macro.h"
+
+1389341234 d:\codeblocks\blocks\codeblocks\projects\四阶一字棋\adapt_bp_net_weight.cpp
+	<math.h>
+	"macro.h"
+
+1378967825 source:d:\codeblocks\blocks\codeblocks\projects\四阶一字棋\icon.rc
+
+1378967825 source:d:\workgroup\人工智能\1120111982_宁小东_大作业2号\1.源代码\四阶一字棋\icon.rc
+
+1389418639 source:d:\workgroup\人工智能\1120111982_宁小东_大作业2号\1.源代码\四阶一字棋\main.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<gtk/gtk.h>
+	<gdk/gdkkeysyms.h>
+	"adapt_BP_net_weight.cpp"
+
+1389418616 d:\workgroup\人工智能\1120111982_宁小东_大作业2号\1.源代码\四阶一字棋\adapt_bp_net_weight.cpp
+	<math.h>
+	"macro.h"
+
+1389343052 d:\workgroup\人工智能\1120111982_宁小东_大作业2号\1.源代码\四阶一字棋\macro.h
+
